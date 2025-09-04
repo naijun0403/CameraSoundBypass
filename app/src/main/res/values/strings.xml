@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraSoundBypass</string>
+    <string name="app_description">Bypasses camera sound forcing on devices like AOSP and Pixel.</string>
+</resources>
